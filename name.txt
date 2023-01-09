@@ -1,0 +1,3 @@
+name:siva
+age:21
+city:salem
